@@ -9,3 +9,4 @@ The repository contains Eagle CAD data and a complete set of [Gerber data](https
 
 
 You can find the STL files for the case on PrusaPrinters.org
+* [Drill Press Ligth on PrusaPrinters.org](https://www.prusaprinters.org/de/prints/125545-drill-press-light)
